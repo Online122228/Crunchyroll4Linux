@@ -1,0 +1,55 @@
+# Qt-specific
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.qbs.user
+*.qbs
+*.qmlproject.user
+*.qmlproject.user.*
+*.cmake
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Qt Creator files
+*.autosave
+*.backup*
+*.pro.user.*
+
+# Generated files
+Makefile
+qrc_*.cpp
+ui_*.h
+moc_*.cpp
+moc_*.h
+
+# Generated folders
+build-*/
+
+# IDE specific
+.idea/
+*.pro.user.*
+*.qbs.user.*
+*.autosave
+*.backup*
+*.swp
+*.swo
+*.kate-swp
+*.kate-swp.*
+*~
