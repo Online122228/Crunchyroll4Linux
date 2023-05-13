@@ -1,3 +1,0 @@
-/usr/local/bin/Crunchyroll4Linux
-/usr/local/share/applications/Crunchyroll4Linux.desktop
-/usr/local/share/icons/hicolor/256x256/apps/crunchyroll.png
