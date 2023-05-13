@@ -1,0 +1,3 @@
+/home/leart/CLionProjects/Crunchyroll4Linux/cmake-build-debug/CMakeFiles/Crunchyroll4Linux.dir
+/home/leart/CLionProjects/Crunchyroll4Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leart/CLionProjects/Crunchyroll4Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir

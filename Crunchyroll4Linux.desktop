@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Crunchyroll4Linux
+GenericName=Crunchyroll Viewer
+Comment=Watch anime on Crunchyroll
+Exec=./Crunchyroll4Linux
+Icon=./crunchyroll.png
+Terminal=false
+Categories=AudioVideo;Player;
